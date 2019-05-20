@@ -11,3 +11,5 @@
 List of various projects based on Swift language i worked on, learnt from and am continuosly working on.
 The following are the projects that have bn added into this repo.
 (All code, assets and resources  used in these apps are for learning/educational purpose)
+-Word search
+
