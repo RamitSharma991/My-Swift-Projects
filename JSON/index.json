@@ -1,0 +1,77 @@
+{
+  "screens": [
+    {
+      "id": "home",
+      "title": "Home",
+      "type": "table",
+      "rightButton":{
+        "title": "About",
+        "actionType": "alert",
+        "action": {
+          "title": "Credits",
+          "message": "Developer.Apple.com"
+        }
+      },
+      "rows": [
+        {
+          "title": "First Row",
+          "actionType": "alert",
+          "action": {
+            "title": "This is the first row", "message": "oh yes it is!"
+          }
+        },
+        {
+          "title": "Show an awesome site", "actionType": "showWebsite", "action": {
+            "url": "http://www.Developer.Apple.com"
+          }
+        },
+        {
+          "title": "Third Row"
+        },
+        {
+          "title": "Show second Screen",
+          "actionType": "showScreen",
+          "action": {
+            "id": "second"
+          }
+        },
+        {
+          "title": "Share something",
+          "actionType": "share",
+          "action": {
+            "text": "Hello, World!"
+          }
+        }, {
+          "title": "Play movie",
+          "actionType": "playMovie",
+          "action": {
+            "url": "https://vimeo.com/306263723"
+          }
+        }
+      ]
+    },
+    {
+      "id": "second",
+      "title": "Second Screen",
+      "type": "table",
+      "rows": [
+        {
+          "title": "Second Screen First Row",
+          "actionType": "alert",
+          "action": {
+            "title": "This is the first row", "message": "oh yes it is!"
+          }
+        },
+        {
+          "title": "Show an awesome site", "actionType": "showWebsite", "action": {
+            "url": "http://www.Developer.Apple.com"
+          }
+        },
+        {
+          "title": "Third Row"
+        }
+      ]
+    }
+  ]
+
+}
