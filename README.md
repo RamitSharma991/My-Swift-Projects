@@ -15,12 +15,12 @@ are the projects that have bn added into this repo. (All code, assets and resour
 
 <n>FunWithFlags</n>
 <n>MultiMark</n>
-<n>OmgMarbles<n>
+<n>OmgMarbles</n>
 
--WhiteHousePetitions
+<n>WhiteHousePetitions</n>
 
--WordSearch
+<n>WordSearch</n>
 
--iXu
+<n>iXu</n>
 
--tvmlApp
+<n>tvmlApp</n>
