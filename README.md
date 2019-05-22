@@ -15,9 +15,15 @@ The following are the projects that have bn added into this repo.
 All the Projects namely
 
 -FunWithFlags
+
 -MultiMark
+
 -OmgMarbles	
+
 -WhiteHousePetitions	
+
 -WordSearch	
+
 -iXu
+
 -tvmlApp
