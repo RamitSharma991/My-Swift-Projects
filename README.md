@@ -13,10 +13,11 @@ The following are the projects that have bn added into this repo.
 (All code, assets and resources  used in these apps are for learning/educational purpose)
 
 All the Projects namely : 
-FunWithFlags
-MultiMark
-OmgMarbles	
-WhiteHousePetitions	
-WordSearch	
-iXu
-tvmlApp
+
+-FunWithFlags
+-MultiMark
+-OmgMarbles	
+-WhiteHousePetitions	
+-WordSearch	
+-iXu
+-tvmlApp
