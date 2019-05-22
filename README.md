@@ -13,7 +13,7 @@ The following are the projects that have bn added into this repo.
 (All code, assets and resources  used in these apps are for learning/educational purpose)
 are the projects that have bn added into this repo. (All code, assets and resources used in these apps are for learning/educational purpose)
 
--FunWithFlags
+<n>FunWithFlags</n>
 
 -MultiMark
 
