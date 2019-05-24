@@ -13,17 +13,11 @@ The following are the projects that have bn added into this repo.
 (All code, assets and resources  used in these apps are for learning/educational purpose)
 are the projects that have bn added into this repo. (All code, assets and resources used in these apps are for learning/educational purpose)
 
-<n>FunWithFlags</n>
-
-<n>MultiMark</n>
-
-<n>OmgMarbles</n>
-
-<n>WhiteHousePetitions</n>
-
-<n>WordSearch</n>
-
-<n>iXu</n>
-
-- tvmlApp</n>
+- FunWithFlags
+- MultiMark
+- OmgMarbles
+- WhiteHousePetitions
+- WordSearch
+- iXu
+- tvmlApp
 - TextTransformerForMac
