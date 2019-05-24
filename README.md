@@ -25,6 +25,5 @@ are the projects that have bn added into this repo. (All code, assets and resour
 
 <n>iXu</n>
 
-<n>tvmlApp</n>
-
+- tvmlApp</n>
 - TextTransformerForMac
